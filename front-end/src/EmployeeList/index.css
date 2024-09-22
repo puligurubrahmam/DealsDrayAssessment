@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.table-container{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  td
+  {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  .head{
+    background-color: gold;
+    padding: 5px;
+}

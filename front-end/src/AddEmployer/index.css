@@ -1,0 +1,25 @@
+.head{
+    background-color: gold;
+    padding: 5px;
+}
+.form-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin: 10px;
+}
+.create-btn{
+    background-color: darkgreen;
+    color: #ffffff;
+    border: none;
+    padding: 5px;
+    width: 100px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
